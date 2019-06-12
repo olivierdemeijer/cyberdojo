@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '3.2.3'
-gem 'jquery-rails', '2.1.3'
+gem 'jquery-rails', '2.2.0'
 
 gem 'sqlite3',      '1.3.7'
 
