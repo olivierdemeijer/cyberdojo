@@ -20,7 +20,7 @@ gem 'simplecov',    '>= 0.7.1', :require => false, :group => :test
 group :test do
   gem 'rspec'
   gem 'shoulda-matchers'
-  gem 'capybara'
+  gem 'capybara', '>= 2.1.0'
   gem 'selenium-webdriver'
   gem 'faker'
   gem 'autotest-standalone'
